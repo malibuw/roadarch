@@ -1,5 +1,9 @@
 # [roadarch](./wiki)
 
+
+| ![RoadArch Logo](./roadarch2.png) | # RoadArch |
+|----------------------------------|-------------|
+
 > Arch Linux–based in-car platform for the NVIDIA Jetson Orin Nano.  
 > Projects a custom Linux interface to the vehicle head unit, integrates SDR radar detection, OBD telemetry, cameras, GPS from hotspot, and optional AI agents for an open, extensible automotive dashboard.
 
