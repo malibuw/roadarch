@@ -9,7 +9,7 @@
 
 ## Features
 - Custom Arch Linux interface projected to car head unit via USB gadget bridge
-- SDR-based radar detection with DSP (X, K, Ka, POP support planned)
+- SDR-based radar detection with DSP (X, K, Ka, POP, Laser support planned)
 - OBD-II telemetry via OBDLink MX+
 - Multi-camera support with Jetson hardware acceleration
 - GPS and internet integration using iPhone hotspot
