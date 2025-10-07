@@ -17,7 +17,7 @@
 
 ---
 
-## [Hardware Requirements](./wiki/Hardware-Requirements)
+## [Hardware Requirements](https://github.com/malibuw/roadarch/wiki/Hardware-Requirements)
 - NVIDIA Jetson Orin Nano 8GB + NVMe SSD  
 - Raspberry Pi Zero 2 W (USB gadget bridge)  
 - SDRs: USRP B200/B210 or HackRF + RFbeam modules / downconverters  
@@ -27,7 +27,7 @@
 
 ---
 
-## [Installation](./wiki/Install-Guide)
+## [Installation](https://github.com/malibuw/roadarch/wiki/Install-Guide)
 1. Flash Jetson with NVIDIA Jetson Linux BSP.  
 2. Replace root filesystem with Arch Linux ARM.  
 3. Clone this repo onto your Jetson.  
