@@ -1,4 +1,4 @@
-# <img src="./roadarch_whiteonly.png" alt="RoadArch Logo" width="120"> [roadarch](./wiki)
+# <img src="./roadarch_whiteonly.png" alt="RoadArch Logo" width="120"> [roadarch](https://github.com/malibuw/roadarch/wiki)
 
 
 
@@ -31,7 +31,7 @@
 1. Flash Jetson with NVIDIA Jetson Linux BSP.  
 2. Replace root filesystem with Arch Linux ARM.  
 3. Clone this repo onto your Jetson.  
-4. Follow the [Install Guide](./wiki/Install-Guide).
+4. Follow the [Install Guide](https://github.com/malibuw/roadarch/wiki/Install-Guide)
 
 ---
 
