@@ -35,7 +35,7 @@
 
 ---
 
-## [Architecture](./wiki/Architecture)
+## [Architecture](https://github.com/malibuw/roadarch/wiki/Architecture)
 
 ```mermaid
 graph TD
@@ -75,9 +75,3 @@ graph TD
 MIT License — see [LICENSE](./LICENSE) for details.
 
 ---
-
-## Links
-- [Wiki](./wiki/Overview) — full documentation  
-- [Hardware Requirements](./wiki/Hardware-Requirements)  
-- [Install Guide](./wiki/Install-Guide)  
-- [Architecture](./wiki/Architecture)
