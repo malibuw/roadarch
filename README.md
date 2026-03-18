@@ -14,6 +14,7 @@
 - Multi-camera support with Jetson hardware acceleration
 - GPS and internet integration using iPhone hotspot
 - AI/LLM integration for local reasoning and adaptive dashboard behavior
+- [Active Suspension](https://github.com/malibuw/roadarch/blob/main/docs/active-suspension.md)
 
 ---
 
